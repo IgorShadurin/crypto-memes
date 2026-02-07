@@ -71,3 +71,7 @@ Here's what we're building toward:
 Memes represent the modern language of the internet, yet creators rarely benefit from their contributions to culture. We're changing that by providing ownership and monetization opportunities through blockchain technology.
 
 Our platform represents the foundation for a new creator economy where digital artists can be recognized and rewarded for their work.
+
+---
+
+Try [YumCut](https://yumcut.com)! This is an AI video generator that turns a single prompt into a ready-to-post vertical short video in minutes. It creates the script, images, voice-over, subtitles, and edits everything into a final clip automatically. It’s built for fast testing and making lots of variations without spending hours in an editor.
